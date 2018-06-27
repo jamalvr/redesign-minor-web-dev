@@ -3,7 +3,8 @@
 - **[Leerdoelen & uitdagingen](#leerdoelen--uitdagingen)**
 - **[Onderdelene waar ik aan gewerkt heb](#onderdelen-waar-ik-aan-gewerkt-heb)**
 - **[Conclusie](#conclusie)**
-- **[Progress blog](https://github.com/baskager/redesign-minor-web-dev/blob/develop/docs/process/jamal.md)**
+- **[Progressie blog](https://github.com/baskager/redesign-minor-web-dev/blob/develop/docs/process/jamal.md)**
+- **[Pull requests](https://github.com/baskager/redesign-minor-web-dev/pulls?utf8=%E2%9C%93&q=author%3Ajamalvr+)**
 
 Zelf heb ik voor deze eindopdracht gekozen omdat dit mij de leukste opdracht leek om styling en functionaliteit samen te kunnen voegen. Vanuit mijn eigen ervaring waren er ook delen informatie die voor mij onduidelijk waren voordat ik aan de minor begon. Het lijkt mij daarom een goede uitdaging om er voor te zorgen dat toekomstige studenten complete informatie kunnen vinden.
 
@@ -45,27 +46,33 @@ Ik ben van mezelf (nog) geen pro-programmeur, dus ik wil mezelf graag uitdagen o
 
 **Styling, functionaleit & animaties**
 Hotkey navigatie. Kan je aan en uitzetten met `ctrl + alt`. Dit wordt opgeslagen in localStorage.
+
 ![hotkeys](https://i.imgur.com/Yt4w2Wo.png)
 
 Mobiele menu inclusief animaties.
+
 ![Mobile friendly](https://i.imgur.com/ofIbMSt.png)
 
 Submenu programma pagina met klikbare pijltjes die de scrollpositie aanpassen.
+
 ![New submenu](https://i.imgur.com/EloxIFh.png)
 
 ### Homepage
 
 **Styling van alle secties & content**
+
 ![Mooie nieuwe homepage](https://i.imgur.com/gH54kZV.png)
 
 ### Signup page
 
 **Styling (herindeling) & content**
+
 ![signup](https://i.imgur.com/MaFFDZE.png)
 
 ### Student work page
 
 **Styling & concept**
+
 ![student work page](https://i.imgur.com/U5F7z1q.png)
 
 ## Conclusie
