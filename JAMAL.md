@@ -61,7 +61,7 @@ Submenu programma pagina met klikbare pijltjes die de scrollpositie aanpassen.
 ### Student work page
 
 **Styling & concept**
-[Imgur](https://i.imgur.com/U5F7z1q.png)
+![student work page](https://i.imgur.com/U5F7z1q.png)
 
 ## Conclusie
 
