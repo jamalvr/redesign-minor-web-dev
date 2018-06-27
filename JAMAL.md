@@ -1,6 +1,10 @@
 # Website redesign for the minor Web Development
 
-## Personal Readme
+During this project we redesigned the website for the minor 'web development' at the University of Applied sciences in Amsterdam. We have done our best to make a very experimental yet pleasurable web site.
+
+A big theme in this project was 'accessibility'. The site should be pleasurable for everyone, not just for the 'general public'.
+
+## Persoonlijke Readme
 
 Zelf heb ik voor deze eindopdracht gekozen omdat dit mij de leukste opdracht leek om styling en functionaliteit samen te kunnen voegen. Vanuit mijn eigen ervaring waren er ook delen informatie die voor mij onduidelijk waren voordat ik aan de minor begon. Het lijkt mij daarom een goede uitdaging om er voor te zorgen dat toekomstige studenten complete informatie kunnen vinden.
 
@@ -43,10 +47,6 @@ De code werd ook regelmatig gecheckt door iemand anders. Gelukkig was iedereen k
 Los van het soms moeilijk kunnen inschatten van prioriteiten, ging de planning best wel soepel. Meerdere keren per week werd er geïnventariseerd wat er allemaal gedaan moest worden. Vervolgens werden de verschillende taken onder elkaar verdeeld. Hierdoor werden de taken ongeveer gelijk verdeeld, was het duidelijk voor iedereen wat die moest doen en konden we makkelijk rekening houden met elkaars leerdoelen.
 
 ## Team Readme
-
-During this project we redesigned the website for the minor 'web development' at the University of Applied sciences in Amsterdam. We have done our best to make a very experimental yet pleasurable web site.
-
-A big theme in this project was 'accessibility'. The site should be pleasurable for everyone, not just for the 'general public'.
 
 ![Homepage](https://d.pr/i/DuFm0H+)
 
