@@ -56,7 +56,7 @@ Submenu programma pagina met klikbare pijltjes die de scrollpositie aanpassen.
 ### Signup page
 
 **Styling (herindeling) & content**
-![Signup](./images/signup.png)
+![signup](https://i.imgur.com/MaFFDZE.png)
 
 ### Student work page
 
