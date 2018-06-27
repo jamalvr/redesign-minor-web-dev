@@ -1,5 +1,10 @@
 # Readme van Jamal
 
+- **[Leerdoelen & uitdagingen](#leerdoelen--uitdagingen)**
+- **[Onderdelene waar ik aan gewerkt heb](#onderdelen-waar-ik-aan-gewerkt-heb)**
+- **[Conclusie](#conclusie)**
+- **[Progress blog](https://github.com/baskager/redesign-minor-web-dev/blob/develop/docs/process/jamal.md)**
+
 Zelf heb ik voor deze eindopdracht gekozen omdat dit mij de leukste opdracht leek om styling en functionaliteit samen te kunnen voegen. Vanuit mijn eigen ervaring waren er ook delen informatie die voor mij onduidelijk waren voordat ik aan de minor begon. Het lijkt mij daarom een goede uitdaging om er voor te zorgen dat toekomstige studenten complete informatie kunnen vinden.
 
 We hebben eerst met z’n allen gezeten en besloten dat we de opdracht in teamvorm gaan uitvoeren. Om er voor te zorgen dat wel iedereen aan zijn persoonlijke leerdoelen komt, hebben we die eerst met z’n allen besproken. Aan de hand van de leerdoelen die iedereen opnoemde, kwamen we al snel tot de conclusie dat we elkaar heel goed kunnen aanvullen en helpen.
