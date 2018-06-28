@@ -42,6 +42,8 @@ Ik ben van mezelf (nog) geen pro-programmeur, dus ik wil mezelf graag uitdagen o
 
 ![Nieuw timeline](https://i.imgur.com/kuvbp6G.png)
 
+- [timeline.scss](https://github.com/jamalvr/redesign-minor-web-dev/blob/develop/app/src/scss/components/_timeline.scss)
+
 ### Navigatie
 
 **Styling, functionaleit & animaties**
@@ -57,11 +59,17 @@ Submenu programma pagina met klikbare pijltjes die de scrollpositie aanpassen.
 
 ![New submenu](https://i.imgur.com/EloxIFh.png)
 
+- [nav.scss](https://github.com/jamalvr/redesign-minor-web-dev/blob/develop/app/src/scss/components/_nav.scss)
+- [nav.js](https://github.com/jamalvr/redesign-minor-web-dev/blob/develop/app/src/js/nav.js)
+- [program.js](https://github.com/jamalvr/redesign-minor-web-dev/blob/develop/app/src/js/program.js)
+
 ### Homepage
 
 **Styling van alle secties & content**
 
 ![Mooie nieuwe homepage](https://i.imgur.com/gH54kZV.png)
+
+- [homepage.scss](https://github.com/jamalvr/redesign-minor-web-dev/blob/develop/app/src/scss/components/homepage.scss)
 
 ### Signup page
 
@@ -75,6 +83,9 @@ Submenu programma pagina met klikbare pijltjes die de scrollpositie aanpassen.
 
 ![student work page](https://i.imgur.com/U5F7z1q.png)
 
+- [student-work.scss](https://github.com/jamalvr/redesign-minor-web-dev/blob/develop/app/src/scss/components/_student-work.scss)
+- [student-work-card.scss](https://github.com/jamalvr/redesign-minor-web-dev/blob/develop/app/src/scss/components/_student-work-card.scss)
+
 ## Conclusie
 
 Wat ik voornamelijk heb gemerkt is dat het heel belangrijk is om goed na te denken over hoe je het project gaat opzetten. Het grootste struikelblok is dan toch juist in teams werken. We liepen bijvoorbeeld al snel tegen verschillende codestylen aan en toch stiekem best wel wat onnodige bugs/merg conflicts. Er werden daardoor heel vaak kleine fixes dubbel gedaan.
@@ -82,6 +93,8 @@ Wat ik voornamelijk heb gemerkt is dat het heel belangrijk is om goed na te denk
 Ook is het belangrijk om toch een project qua scope goed in te kunnen schatten en ook beter na te denken over wat de gebruiker wilt. Zo is er bijvoorbeeld relatief erg veel tijd gestopt in het opzetten van een database, terwijl het niet perse nodig is en misschien ook helemaal niet handig is voor de leraren. Al met al werkt het overigens wel goed met de database, maar toch komen er altijd extra dingen bij kijken. Het was niet perse slecht, maar wel een kritisch puntje om over na te denken.
 
 Verder vond ik het zelf echt super vet om samen te werken. Zelf vind ik dat ook de leukste manier van werken, omdat je super veel inzichten van elkaar krijgt. Mensen snappen ook beter waar ik mee bezig ben omdat je in hetzelfde project werk, wat het weer makkelijker maakt om de juist hulp te vragen. Hierdoor heb ik bijvoorbeeld best veel stappen kunnen maken in het zelfstandig schrijven van javascript. Ook de snelle afwisseling tussen verschillende onderdelen was erg leuk. Ik heb heel veel losse dingen kunnen doen, waardoor ik veel aan kleine dingen heb gesleuteld binnen de website.
+
+**Files waar ik het grootste aandeel in heb gehad qua .js**
 
 #### DRY
 
